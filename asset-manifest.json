@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/create-react-template/static/js/main.510279e7.chunk.js",
+    "main.js.map": "/create-react-template/static/js/main.510279e7.chunk.js.map",
+    "runtime-main.js": "/create-react-template/static/js/runtime-main.71e8bfc3.js",
+    "runtime-main.js.map": "/create-react-template/static/js/runtime-main.71e8bfc3.js.map",
+    "static/js/2.5c22f0b6.chunk.js": "/create-react-template/static/js/2.5c22f0b6.chunk.js",
+    "static/js/2.5c22f0b6.chunk.js.map": "/create-react-template/static/js/2.5c22f0b6.chunk.js.map",
+    "static/js/3.824de168.chunk.js": "/create-react-template/static/js/3.824de168.chunk.js",
+    "static/js/3.824de168.chunk.js.map": "/create-react-template/static/js/3.824de168.chunk.js.map",
+    "static/js/4.4fc79796.chunk.js": "/create-react-template/static/js/4.4fc79796.chunk.js",
+    "static/js/4.4fc79796.chunk.js.map": "/create-react-template/static/js/4.4fc79796.chunk.js.map",
+    "index.html": "/create-react-template/index.html",
+    "static/js/2.5c22f0b6.chunk.js.LICENSE.txt": "/create-react-template/static/js/2.5c22f0b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71e8bfc3.js",
+    "static/js/2.5c22f0b6.chunk.js",
+    "static/js/main.510279e7.chunk.js"
+  ]
+}
