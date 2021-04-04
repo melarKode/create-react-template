@@ -1,4 +1,4 @@
 const constants = {
-    greeting: 'Navneet!',
+    greeting: 'Navneet, Testing!',
 };
 export default constants;
