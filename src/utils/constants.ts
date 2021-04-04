@@ -1,5 +1,5 @@
 const constants = {
-    greeting: 'Hello, world!',
+    greeting: 'Navneet!',
 };
-
+https://github.com/melarKode/create-react-template/blob/master/src/utils/constants.ts
 export default constants;
